@@ -1,0 +1,21 @@
+# Build folders and CMake cache
+/build/
+/cmake-build*/
+CMakeFiles/
+CMakeCache.txt
+
+# Compiled binaries & objects
+xonix
+xonix.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.pdb
+*.log
+
+# IDE / OS artifacts
+.DS_Store
+.vscode/
+.idea/

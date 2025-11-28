@@ -1,3 +1,5 @@
-1,Ali,abcd1234
-2,AliNoor,datastr
-3,Noor,123456
+1,Ali,abcd1234,0
+2,AliNoor,datastr,0
+3,Noor,123456,386
+4,aayan,12345678,1371
+5,Player2,password,0
